@@ -131,3 +131,27 @@ a{
         margin-bottom: 10px;
     }
 }
+
+.hide-form {
+    border-radius: 10px;
+    background-color: #000000 ;
+}
+.hide-text {
+    color: #123123;
+    font-family: Constantia;
+}
+.hide-input {
+    border-radius: 5%;
+    border: #123123;
+    font-family: Verdana;
+    font-size: 16px;
+}
+.hide-button {
+    background-color: #b4343b;
+    border-radius: 4px;
+    margin-left: 10px;
+}
+.hide-button:hover {
+    background-color: #323232;
+    color: #f32112;
+}
